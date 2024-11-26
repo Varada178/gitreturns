@@ -1,2 +1,2 @@
-tuesday
+tue
 git lab
